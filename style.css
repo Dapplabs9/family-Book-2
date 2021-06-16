@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+#image1{
+    height: 300px;
+    width: 290px;
+    background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX40015092.jpg");
+    background-size: contain;
+}
